@@ -7,9 +7,9 @@
         "start": "node app.js"
     },
     "dependencies": {
-        "socket.io": "~0.9.16",
-        "express": "3.x",
-        "mongoskin": "1.x"
+        "socket.io": "0.9.16",
+        "express": "4.3.0",
+        "mongoskin": "1.4.4"
     },
     "repository": {
         "type": "git",
@@ -20,5 +20,5 @@
         "socket.io",
         "mongodb"
     ],
-    "author": "Edwin Andrianto",
+    "author": "Edwin Andrianto"
 }
